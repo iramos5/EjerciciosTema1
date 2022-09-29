@@ -5,7 +5,8 @@ public class Ejercicio1 {
 
 	public static void main(String[] args) {
 		/* Realizar un programa que pida como entrada un número con decimales y 
-		 * lo muestre redondeado al entero más próximo. (SIN UTILIZAR Math.round()) */
+		 * lo muestre redondeado al entero más próximo. (SIN UTILIZAR Math.round()) 
+		*/
 		
 		// variables
 		Scanner scan = new Scanner(System.in); // se inicia el escáner
