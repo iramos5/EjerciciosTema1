@@ -22,6 +22,9 @@ public class Ejercicio4 {
 		
 		// solucion
 		System.out.println("El área del triángulo es de: " + area);
+		
+		// cierre escáner
+		scan.close();
 	}
 
 }

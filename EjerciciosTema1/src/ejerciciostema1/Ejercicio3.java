@@ -25,6 +25,9 @@ public class Ejercicio3 {
 					
 		// mostrar solución
 		System.out.println("Para que " + num1 + " sea múltiplo de " + num2 + ", hay que sumarle " + cantidad);
+		
+		// cierre escáner
+		scan.close();
 	}
 
 }

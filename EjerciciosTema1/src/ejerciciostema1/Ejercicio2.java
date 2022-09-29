@@ -24,6 +24,8 @@ public class Ejercicio2 {
 		// mostrar solución
 		System.out.println("Para que " + numEntero + " sea múltiplo de 7, hay que sumarle " + cantidad);
 		
+		// cierre escáner
+		scan.close();
 		
 	}
 

@@ -22,6 +22,8 @@ public class Ejercicio1 {
 		// mostrar número entero redondeado
 		System.out.println("El número redondeado es: " + numEntero);
 		
+		// cierre escáner
+		scan.close();
 	}
 
 }
