@@ -33,6 +33,9 @@ public class Ejercicio5 {
 		// resultado
 		System.out.println("El valor de y es: " + y); // imprimir resultado
 		
+		// cierre escáner
+		scan.close();
+		
 		
 	}
 
